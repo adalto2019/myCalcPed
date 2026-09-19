@@ -1,7 +1,7 @@
 # myCalcPed
 É uma solução de desenvolvimento de ferramenta de cálculo de diluições medicamentosas tendo como referência o peso do paciente.
 
-Com o objetivo de auxiliar potencialmente médicos pediatras nas urgências e emergências hospitalares de todo o mundo. Apresentamos essa ferramenta de cálculo de diluíções de medicações tendo como referência apenas o peso informado de um paciente. A aplicação conta com uma variedade de medicações pré definidas a um toque, acesse: [mycalcped.com](adalto2019.github.io/my-calc-ped) e conheça a sua facilidade voltada a eficiência no atendimento pediátrico/adulto hospitalar.
+Com o objetivo de auxiliar potencialmente médicos pediatras nas urgências e emergências hospitalares de todo o mundo. Apresentamos essa ferramenta de cálculo de diluíções de medicações tendo como referência apenas o peso informado de um paciente. A aplicação conta com uma variedade de medicações pré definidas a um toque, acesse: [mycalcped.com](https://adalto2019.github.io/my-calc-ped/) e conheça a sua facilidade voltada a eficiência no atendimento pediátrico/adulto hospitalar.
 
 ##### Tela Inicial
 <img src="Imgs/inputPeso.png" alt="drawing" width="50%"/>
@@ -17,7 +17,7 @@ Com o objetivo de auxiliar potencialmente médicos pediatras nas urgências e em
 Projeto atualmente em validação por profissionais da área
 
 ### NOVA VERSÃO 1.1.
-Visualizar: [mycalcped.com](adalto2019.github.io/my-calc-ped)
+Visualizar: [mycalcped.com](https://adalto2019.github.io/my-calc-ped/)
 
 ### Desenvolvido por
 Adalto C R S Junior - Março 2024. Versão: 1.0.
